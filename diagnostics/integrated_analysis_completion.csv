@@ -1,0 +1,7 @@
+item,value
+integrated_analysis_status,FINAL_COMPLETE
+primary_analysis,Year-specific OLS + Newey-West HAC lag 14; REML random-effects + Knapp-Hartung
+temperature_flexibility_analysis,completed
+leave_one_year_out_analysis,completed
+adjacent_day_alert_timing_analysis,completed_post_hoc_exploratory
+repository_safe_release,created_from_explicit_whitelist

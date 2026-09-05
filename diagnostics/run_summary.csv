@@ -1,0 +1,20 @@
+item,value
+analysis_status,FINAL
+valid_complete_sessions,10
+unique_valid_acquisition_dates,10
+overall_median_pairwise_spearman,0.995201796599206
+year_specific_model,OLS with natural splines + Newey-West HAC
+primary_HAC_lag,14
+HAC_prewhite,FALSE
+HAC_finite_sample_adjust,TRUE
+primary_pooling_model,Random-effects REML + Knapp-Hartung
+primary_pooled_alert_estimate,0.714391746864398
+primary_pooled_alert_lower95,0.259876272624469
+primary_pooled_alert_upper95,1.16890722110433
+primary_pooled_alert_p_value,0.0120251517231722
+primary_tau2,0.0927208795395213
+primary_I2_percent,74.1451076967287
+primary_prediction_interval_lower,-0.245471204482221
+primary_prediction_interval_upper,1.67425469821102
+HAC7_pooled_estimate,0.718542804196587
+HAC21_pooled_estimate,0.709089353318327
