@@ -47,3 +47,28 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ============================================================
+# Study-specific files that must NOT be committed
+# ============================================================
+
+# Raw Google Trends data
+raw_google_trends/
+raw_google_trends*.zip
+gt_heatstroke_*.csv
+
+# NARO-derived meteorological data
+data_f*.txt
+
+# Heat Stroke Alert source files
+check_heatstroke_alert*.xlsx
+
+# Integrated analytic dataset containing restricted weather data
+analysis_dataset_multisession.csv
+
+# Temporary extracted Google Trends directories
+.gt_final_input_*/
+
+# Local analysis outputs that may contain restricted source data
+*_PRIVATE/
+*_RAW/
