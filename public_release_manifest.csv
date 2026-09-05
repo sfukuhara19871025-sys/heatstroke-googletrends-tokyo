@@ -1,0 +1,14 @@
+item,value
+release_version,1.0.0
+release_status,repository_safety_scan_passed
+release_strategy,explicit_whitelist
+raw_google_trends_included,FALSE
+naro_daily_meteorological_data_included,FALSE
+integrated_analysis_dataset_included,FALSE
+processed_google_trends_included,TRUE
+aggregate_statistical_outputs_included,TRUE
+formal_figures_included,TRUE
+selected_reproducibility_diagnostics_included,TRUE
+local_path_scan_passed,TRUE
+restricted_weather_column_scan_passed,TRUE
+note,Upload only this release package plus code/heatstroke_googletrends_analysis.R to GitHub. Do not upload the full local *_PRIVATE analysis directory.
