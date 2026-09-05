@@ -1,0 +1,4 @@
+input,redistribution_status,expected_local_input,note
+Original Google Trends exports,Not redistributed in this repository,raw_google_trends.zip or raw_google_trends/,"Retrieve independently using the documented query, geography, dates, and window settings."
+NARO-derived meteorological data,Not redistributed in this repository,data_f.txt (or compatible local filename),Obtain access directly from NARO; the analysis requires population- and building-land-weighted daily variables.
+Heat Stroke Alert data,Not redistributed in this repository,check_heatstroke_alert_2021_2025_wide_by_region.xlsx (or compatible local filename),Obtain from the official Japanese Heat Illness Prevention Information source.

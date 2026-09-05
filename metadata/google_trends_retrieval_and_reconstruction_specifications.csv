@@ -1,0 +1,15 @@
+item,value
+google_trends_query,熱中症
+google_trends_geography,"Tokyo, Japan (JP-13)"
+study_period,May 1 through September 30
+study_years,2021-2025
+acquisition_date_count,10
+windows_per_study_year,3
+first_two_window_length_days,75
+adjacent_window_overlap_days,21
+final_window_definition,Remaining end-of-summer period
+within_session_alignment,Simultaneous Huber robust regression on positive-valued overlap days
+zero_value_handling,Reported zeros retained in reconstructed series; positive overlap values only used to estimate scale factors
+within_session_standardization,Mean 0 and SD 1 within each session-year
+across_acquisition_combination,Daily median across acquisition dates after within-date combination
+final_outcome_standardization,Re-standardized to mean 0 and SD 1 within each study year
