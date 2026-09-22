@@ -1,5 +1,5 @@
 # heatstroke-googletrends-tokyo
-R code and processed Google Trends data for a repeated-acquisition daily time-series study of Heat Stroke Alerts and Google search activity in Tokyo, Japan, 2021–2025.
+R code and processed Google Trends data for a repeated-acquisition daily time-series study of Heat Stroke Alerts and Google search activity in Tokyo, Japan (2021–2025).
 
 # Heat Stroke Alerts and Google Search Activity in Tokyo, Japan
 
@@ -13,8 +13,8 @@ a Repeated-Acquisition Daily Time-Series Study, 2021–2025**
 ## Authors
 
 - Satoshi Fukuhara
-- Yohei Ono
 - Takahiro Takimoto
+- Yohei Ono
 
 ## Overview
 
