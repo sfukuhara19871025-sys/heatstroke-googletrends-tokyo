@@ -8,7 +8,7 @@ reproducibility diagnostics, and aggregate statistical outputs associated
 with the study:
 
 **Heat Stroke Alerts and Google Search Activity in Tokyo, Japan:
-a Repeated-Acquisition Daily Time-Series Study, 2021–2025**
+a Repeated-Acquisition Daily Time-Series Study (2021–2025)**
 
 ## Authors
 
