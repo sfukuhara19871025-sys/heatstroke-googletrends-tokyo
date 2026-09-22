@@ -77,5 +77,5 @@ redistributed in this repository.
 
 ## Citation
 
-A permanent DOI and citation information will be added following
-archiving of release v1.0.0 in Zenodo.
+Fukuhara S, Takimoto T, Ono Y. *Heat Stroke Alerts and Google Search Activity in Tokyo, Japan: a Repeated-Acquisition Daily Time-Series Study (2021–2025): analysis code and reproducibility materials*. Version 1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.22899677
+
