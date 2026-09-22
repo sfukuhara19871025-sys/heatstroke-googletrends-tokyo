@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or processed dataset, please cite it using the metadata below."
+title: "Heat Stroke Alerts and Google Search Activity in Tokyo, Japan: a Repeated-Acquisition Daily Time-Series Study (2021–2025)"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Fukuhara
+    given-names: Satoshi
+    orcid: "https://orcid.org/0000-0001-5045-7330"
+  - family-names: Takimoto
+    given-names: Takahiro
+  - family-names: Ono
+    given-names: Yohei
+repository-code: "https://github.com/sfukuhara19871025-sys/heatstroke-googletrends-tokyo"
+license: MIT
